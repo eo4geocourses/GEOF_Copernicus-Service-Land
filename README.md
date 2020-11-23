@@ -1,1 +1,8 @@
 This is a HTML presentation designed within EO4GEO project, T4.3. All the rights belong to the University of Zagreb Faculty of Geodesy (GEOF). Thank you for reading this!
+This is an introductory course about The Copernicus Land Monitoring Service (CLMS) and its components and the data they provide. Copernicus is a European programme for monitoring the Earth. It combines satellite observation data with data from sensor networks on the Earth’s surface to build a comprehensive picture of our planet and its environment. Three components make up Copernicus: Space, Services and In Situ. The one of Services Component is for land areas: CLMS. Within these services, the data collected are processed to give reliable and up-to-date information about the land areas. CLMS provides geographical information on land cover to a broad range of users in the field of environmental terrestrial applications. The land theme is divided into four main components: Global, Pan-European, Local and Imagery and reference data. This includes information on land cover characteristics and changes, land use, vegetation state, water cycle and Earth surface energy variables. Copernicus products and services are continually evolving. The course provides an overview of search engines through which data on land cover can be obtained.
+
+Learning outcomes
+-	Understand the basic concepts of Copernicus Service – Land.
+-	Recognize and select necessary data for a specific purpose within the GI/EO.
+-	Select objects using attribute and spatial queries.
+-	Categorize data within the components of the Copernicus Land Monitoring Service.
